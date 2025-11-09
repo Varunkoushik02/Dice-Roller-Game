@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(43, 10, 233, 0.911);
+    margin-bottom:25px;
+    
+}
+label{
+    font-size:1.4em;
+    margin-right: 5px;
+    font-weight: bold;
+}
+#dice{
+    font-size: 25px;
+    text-align: center;
+    border-radius: 3px;
+    margin-right:20px;
+}
+#one{
+    background-color: rgba(186, 4, 177, 0.692);
+    font-size: 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    color:rgb(252, 252, 252);
+    border:none;
+    padding: 5px 15px;
+}
+#one:hover{
+    background-color:rgba(248, 4, 236, 0.692) ;
+}
+#result{
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#image{
+    margin-top: 20px;
+    font-size: 50px;
+    margin: 10px 15px 10px 15px;
+}
